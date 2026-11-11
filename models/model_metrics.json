@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-11-09 22:41:55",
+  "epochs_trained": 15,
+  "final_train_accuracy": 0.9895833134651184,
+  "final_train_loss": 0.04034269228577614,
+  "final_val_accuracy": 0.9916666746139526,
+  "final_val_loss": 0.0280726607888937,
+  "classes": [
+    "RED",
+    "YELLOW",
+    "GREEN",
+    "NONE"
+  ],
+  "input_shape": [
+    64,
+    64,
+    3
+  ],
+  "training_duration_seconds": 13.88
+}

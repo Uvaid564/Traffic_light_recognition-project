@@ -1,0 +1,5 @@
+# Local training / retraining only (NOT used on Render)
+-r requirements.txt
+tensorflow>=2.16
+keras>=3.0
+matplotlib>=3.7
